@@ -3,8 +3,7 @@ Morphometric analysis of cells in microscopy images.
 
 *README written by Eleni Christoforidou*
 
-REQUIREMENTS:
-- Single-channel, single-frame images in TIFF format. Each image contains a single cell whose full structure is visible (by labelling with phalloidin, for example).
+REQUIREMENTS: Single-channel, single-frame images in TIFF format. Each image contains a single cell whose full structure is visible (by labelling with phalloidin, for example).
 
 INSTRUCTIONS:
 
