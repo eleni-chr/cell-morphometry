@@ -1,4 +1,7 @@
 # cell-morphometry
+
+[![DOI](https://zenodo.org/badge/537016406.svg)](https://zenodo.org/badge/latestdoi/537016406)
+
 Morphometric analysis of cells in microscopy images.
 
 *README written by Eleni Christoforidou*
