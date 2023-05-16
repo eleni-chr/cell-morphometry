@@ -2,6 +2,8 @@
 
 Morphometric analysis of cells in microscopy images.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7941728.svg)](https://doi.org/10.5281/zenodo.7941728)
+
 *README written by Eleni Christoforidou*
 
 Disclaimer: The code provided in this toolkit has not been peer-reviewed and is subject to errors. Users are encouraged to thoroughly test the code and verify its accuracy for their specific use cases. The author of this code is not responsible for any errors or inaccuracies in the results obtained from using these functions. Additionally, the code may be subject to updates or modifications, and users should keep an eye out for future releases to ensure the most accurate and up-to-date functionality.
